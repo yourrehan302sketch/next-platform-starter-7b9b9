@@ -1,43 +1,66 @@
-# Next.js on Netlify Platform Starter
+# 💕 Sweet Reveal
 
-[Live Demo](https://nextjs-platform-starter.netlify.app/)
+A cute sweet reveal website built with love 💖  
+Sweet, simple, and made to bring a smile to someone special ✨ 
 
-A modern starter based on Next.js 16 (App Router), Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
+---
 
-In this site, Netlify Core Primitives are used both implictly for running Next.js features (e.g. Route Handlers, image optimization via `next/image`, and more) and also explicitly by the user code.
+## 🛠 Tech Stack
 
-Implicit usage means you're using any Next.js functionality and everything "just works" when deployed - all the plumbing is done for you. Explicit usage is framework-agnostic and typically provides more features than what Next.js exposes.
+- ⚛️ **Next.js** – React Framework for building fast UI
+- 🎨 **Tailwind CSS** – For modern and responsive styling
+- 🎞️ **Motion** – Smooth entrance and fade animations
 
-## Deploying to Netlify
+---
 
-Click the button below to deploy this template to your Netlify account.
+## 🖥 Local Setup
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-platform-starter)
+To run this project locally, follow these steps:
 
-## Developing Locally
+```bash
+# Clone the repository
+git clone https://github.com/Anuj579/sweet-reveal.git
 
-1. Clone this repository, then run `npm install` in its root directory.
+# Navigate into the folder
+cd sweet-reveal
 
-2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
+# Install dependencies
+npm install
 
-```
-npm install netlify-cli@latest -g
-```
-
-3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
-
-```
-netlify link
-```
-
-4. Then, run the Next.js development server via Netlify CLI:
-
-```
-netlify dev
+# Start the development server
+npm run dev
 ```
 
-If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
 
-## Resources
+---
 
-- Check out the [Next.js on Netlify docs](https://docs.netlify.com/frameworks/next-js/overview/)
+## 🔗 Social Media
+
+Follow me for more emotional surprise websites and creative dev content:
+
+- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
+- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
+- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
+- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+
+---
+
+## ⭐ Support
+
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+Thank you for being here! 🫶  
+Made with emotions by **Anuj** – _@anujbuilds_
+
+✨ If you'd like to support my work directly, you can donate via UPI:  
+**anujbuilds.wallet@phonepe**  
+Even a small contribution helps me keep creating cute, emotional projects 💖
+
+---
+
+## ⚠️ License & Usage
+
+- This free version is strictly for **personal use only**.  
+- You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
+- Using this free code publicly is **prohibited**.
+- Any violation will be considered **copyright infringement**, and I reserve the right to report it.
